@@ -15,6 +15,7 @@
 
 Имея в руках данные мы можем подходить к таким вопросам: при ограниченном бюджете, кого эффективнее стимулировать денежно -- одиноких пенсионеров? незанятых пенсионеров? пенсионеров с инвалидностью?
 
-Athey, S., & Wager, S. (2017). Efficient policy learning. arXiv preprint arXiv:1702.02896.
-Angrist, J. D., & Lavy, V. (1999). Using Maimonides' rule to estimate the effect of class size on scholastic achievement. The Quarterly journal of economics, 114(2), 533-575.
-Zhou, Z., Athey, S., & Wager, S. (2018). Offline multi-action policy learning: Generalization and optimization. arXiv preprint arXiv:1810.04778.
+
+1. Athey, S., & Wager, S. (2017). Efficient policy learning. arXiv preprint arXiv:1702.02896.
+2. Angrist, J. D., & Lavy, V. (1999). Using Maimonides' rule to estimate the effect of class size on scholastic achievement. The Quarterly journal of economics, 114(2), 533-575.
+3. Zhou, Z., Athey, S., & Wager, S. (2018). Offline multi-action policy learning: Generalization and optimization. arXiv preprint arXiv:1810.04778.
