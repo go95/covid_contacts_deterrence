@@ -1,0 +1,6 @@
+improve model
+account for panel data structure (people are paid only once)
+bandwidth sensitivity check
+reduced form effect point estimate
+incorporate any uplift curve public code
+shallow the policy to an interpretable one
